@@ -31,6 +31,7 @@ namespace Git_Project_05UI
                 pattern: "{controller=Home}/{action=Index}/{id?}");
 
             app.Run();
+            app.Run();
         }
     }
 }
