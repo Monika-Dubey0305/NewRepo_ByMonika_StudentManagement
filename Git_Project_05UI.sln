@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_Project_05UI", "Git_Project_05UI\Git_Project_05UI.csproj", "{59C6476A-50A1-45C2-985C-E2EDAF9B5B51}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Git_Project_05UI", "Git_Project_05UI\Git_Project_05UI.csproj", "{59C6476A-50A1-45C2-985C-E2EDAF9B5B51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Git_Wb_API", "Git_Wb_API\Git_Wb_API.csproj", "{B9C4EB0C-40BD-4EC9-A7F2-11F26489268F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{59C6476A-50A1-45C2-985C-E2EDAF9B5B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{59C6476A-50A1-45C2-985C-E2EDAF9B5B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{59C6476A-50A1-45C2-985C-E2EDAF9B5B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9C4EB0C-40BD-4EC9-A7F2-11F26489268F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9C4EB0C-40BD-4EC9-A7F2-11F26489268F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9C4EB0C-40BD-4EC9-A7F2-11F26489268F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9C4EB0C-40BD-4EC9-A7F2-11F26489268F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
